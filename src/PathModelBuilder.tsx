@@ -949,7 +949,7 @@ export default function PathModelBuilder() {
 
           <div className="flex items-center gap-3">
 		<a
-  		href="/MASEM_User_Manual.pdf"
+  		href="./MASEM_User_Manual.pdf"
   		download
   		className="inline-flex items-center gap-2 rounded-xl bg-slate-800 border border-slate-700 px-4 py-2 text-sm font-bold text-white shadow-md transition-all hover:bg-slate-700 hover:-translate-y-0.5 hover:shadow-lg"
   		title="Download the user manual PDF"
